@@ -1,0 +1,38 @@
+input[type=text] {
+
+    border-radius: 25px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+input[type=button], input[type=submit], input[type=reset]{
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+    background-color: white;
+}
+#goog {
+    text-align: center;
+    margin: 0 auto;
+    padding:130px;
+    margin-left: 25%;
+    margin-right: 25%
+}
+#rodape {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(232, 232, 232);
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+pre {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#palavras {
+    text-align: center;
+}
